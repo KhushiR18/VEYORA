@@ -1,0 +1,42 @@
+Save one photo per hotel in this folder, named exactly like this (.jpg):
+
+taj-fort.jpg  ->  Taj Fort Aguada Resort & Spa, Goa (Sinquerim, Candolim, Goa)
+marriott-goa.jpg  ->  Goa Marriott Resort & Spa (Miramar, Panaji, Goa)
+alila-diwa.jpg  ->  Alila Diwa Goa (Majorda, South Goa)
+hyatt-candolim.jpg  ->  Hyatt Place Goa Candolim (Candolim, North Goa)
+st-regis-goa.jpg  ->  The St. Regis Goa Resort (Mobor, South Goa)
+taj-west-end.jpg  ->  Taj West End, Bengaluru (Race Course Road, Bengaluru, Karnataka)
+leela-bengaluru.jpg  ->  The Leela Palace Bengaluru (Old Airport Road, Bengaluru, Karnataka)
+taj-mumbai.jpg  ->  The Taj Mahal Palace, Mumbai (Apollo Bunder, Colaba, Mumbai, Maharashtra)
+trident-mumbai.jpg  ->  Trident, Nariman Point, Mumbai (Nariman Point, Mumbai, Maharashtra)
+imperial-delhi.jpg  ->  The Imperial, New Delhi (Janpath, New Delhi, Delhi)
+rambagh-jaipur.jpg  ->  Rambagh Palace, Jaipur (Bhawani Singh Road, Jaipur, Rajasthan)
+taj-udaipur.jpg  ->  Taj Lake Palace, Udaipur (Lake Pichola, Udaipur, Rajasthan)
+grand-hyatt-kochi.jpg  ->  Grand Hyatt Kochi Bolgatty (Bolgatty Island, Kochi, Kerala)
+taj-chennai.jpg  ->  Taj Coromandel, Chennai (Nungambakkam, Chennai, Tamil Nadu)
+taj-hyderabad.jpg  ->  Taj Falaknuma Palace, Hyderabad (Engine Bowli, Hyderabad, Telangana)
+oberoi-agra.jpg  ->  The Oberoi Amarvilas, Agra (Taj East Gate Road, Agra, Uttar Pradesh)
+wildflower-shimla.jpg  ->  Wildflower Hall, Shimla (Mashobra, Shimla, Himachal Pradesh)
+span-manali.jpg  ->  Span Resort & Spa, Manali (Kullu-Manali Highway, Manali, Himachal Pradesh)
+itc-kolkata.jpg  ->  ITC Royal Bengal, Kolkata (EM Bypass, Kolkata, West Bengal)
+taj-varanasi.jpg  ->  Taj Ganges, Varanasi (Nadesar, Varanasi, Uttar Pradesh)
+ibis-bengaluru.jpg  ->  ibis Bengaluru City Centre (Richmond Road / Sampangiram Nagar, Bengaluru, Karnataka)
+ginger-bengaluru.jpg  ->  Ginger Bangalore- Inner Ring Road (Domlur / Inner Ring Road, Bengaluru, Karnataka)
+chancery-pavilion.jpg  ->  The Chancery Pavilion (Residency Road, Bengaluru, Karnataka)
+hotel-empire-bengaluru.jpg  ->  Hotel Empire International (Brigade Road, Bengaluru, Karnataka)
+bengaluru-basic-inn.jpg  ->  Bengaluru Everyday Rooms (Majestic / Gandhinagar, Bengaluru, Karnataka)
+koramangala-comfort.jpg  ->  Koramangala Comfort Stay (Koramangala 5th Block, Bengaluru, Karnataka)
+whitefield-budget.jpg  ->  Whitefield Budget Rooms (Whitefield / ITPL, Bengaluru, Karnataka)
+jayanagar-stay.jpg  ->  Jayanagar Comfort Rooms (Jayanagar 4th Block, Bengaluru, Karnataka)
+electronic-city-basic.jpg  ->  Electronic City Basic Stay (Electronic City Phase 1, Bengaluru, Karnataka)
+
+Tip: landscape photos around 1000x700 px look best. Missing files fall back to the old stock photo.
+
+Front-page slideshow (wide landscape, 2000 px or more):
+hero-goa.jpg
+hero-jaipur.jpg
+hero-udaipur.jpg
+hero-kochi.jpg
+hero-varanasi.jpg
+hero-shimla.jpg
+Without them the slides show colour scenes with the place name in Hindi.

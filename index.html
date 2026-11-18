@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VEYORA | The Stay That Gets You</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f6f1;
+      color: #18332e;
+    }
+
+    nav {
+      height: 80px;
+      padding: 0 7%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #f7f6f1;
+    }
+
+    .logo {
+      font-size: 27px;
+      font-weight: 800;
+      letter-spacing: 3px;
+    }
+
+    .logo span {
+      color: #849b36;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #18332e;
+      margin-left: 25px;
+      font-size: 14px;
+    }
+
+    .hero {
+      min-height: 650px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      padding: 70px 10%;
+      color: white;
+      overflow: hidden;
+      background: #18332e;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      opacity: 1;
+      transition: opacity 1s ease;
+      z-index: 0;
+    }
+
+    .hero-bg::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        90deg,
+        rgba(9, 31, 26, 0.88),
+        rgba(9, 31, 26, 0.38)
+      );
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 650px;
+    }
+
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-size: 12px;
+      margin-bottom: 25px;
+      color: #e7ff73;
+    }
+
+    h1 {
+      font-size: clamp(45px, 7vw, 82px);
+      line-height: 1.08;
+      margin-bottom: 25px;
+    }
+
+    h1 em {
+      color: #e7ff73;
+      font-family: Georgia, serif;
+      font-weight: normal;
+    }
+
+    .description {
+      max-width: 440px;
+      font-size: 16px;
+      line-height: 1.8;
+      color: #e3e9e4;
+      margin-bottom: 30px;
+    }
+
+    .slideshow-note {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: 1px;
+      margin-bottom: 30px;
+      padding: 10px 14px;
+      border: 1px solid #ffffff70;
+      border-radius: 30px;
+      background: #18332e70;
+    }
+
+    .search-box {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      background: white;
+      padding: 12px;
+      border-radius: 12px;
+      max-width: 680px;
+    }
+
+    .search-box input {
+      flex: 1;
+      min-width: 180px;
+      border: 1px solid #e2e5dd;
+      padding: 16px;
+      border-radius: 7px;
+      outline-color: #849b36;
+    }
+
+    button {
+      border: none;
+      border-radius: 7px;
+      padding: 16px 23px;
+      background: #e7ff73;
+      color: #18332e;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #d5ef5b;
+    }
+
+    .section {
+      padding: 70px 8%;
+    }
+
+    .section-heading {
+      font-size: 32px;
+      margin-bottom: 12px;
+    }
+
+    .section-description {
+      color: #6c7972;
+      line-height: 1.7;
+      margin-bottom: 30px;
+    }
+
+    .destinations {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 20px;
+    }
+
+    .destination {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      border: 1px solid #e8e9e2;
+    }
+
+    .destination h3 {
+      margin-bottom: 10px;
+    }
+
+    .destination p {
+      font-size: 13px;
+      line-height: 1.6;
+      color: #6c7972;
+      margin-bottom: 15px;
+    }
+
+    .destination button {
+      width: 100%;
+    }
+
+    #results {
+      margin-top: 30px;
+    }
+
+    .result-message {
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      line-height: 1.8;
+    }
+
+    footer {
+      background: #18332e;
+      color: white;
+      padding: 35px 8%;
+      line-height: 1.8;
+    }
+
+    footer p {
+      color: #cbd5ce;
+      font-size: 13px;
+      margin-top: 8px;
+    }
+
+    @media (max-width: 600px) {
+      nav {
+        padding: 0 5%;
+      }
+
+      nav a {
+        margin-left: 10px;
+        font-size: 12px;
+      }
+
+      .hero {
+        min-height: 650px;
+        padding: 55px 6%;
+      }
+
+      .section {
+        padding: 50px 6%;
+      }
+
+      .search-box {
+        flex-direction: column;
+      }
+
+      .search-box input,
+      .search-box button {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <nav>
+    <div class="logo">VEYORA<span>.</span></div>
+
+    <div>
+      <a href="#home">Home</a>
+      <a href="#destinations">Explore</a>
+      <a href="#about">About</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero" id="home">
+
+      <div class="hero-bg" id="heroBg"></div>
+
+      <div class="hero-content">
+
+        <div class="eyebrow">✦ YOUR NEXT CHAPTER STARTS HERE</div>
+
+        <h1>
+          The stay<br>
+          that <em>gets you.</em>
+        </h1>
+
+        <p class="description">
+          Discover stays that match your style, your budget
+          and the way you want to travel. Your next favourite
+          destination is waiting.
+        </p>
+
+        <div class="slideshow-note">
+          ✦ BACKGROUND CHANGES EVERY 5 SECONDS
+        </div>
+
+        <form class="search-box" id="searchForm">
+          <input
+            type="text"
+            id="destination"
+            placeholder="Where do you want to go?"
+            list="cityOptions"
+            required
+          >
+
+          <datalist id="cityOptions">
+            <option value="Goa">
+            <option value="Kashmir">
+            <option value="Jaipur">
+            <option value="Agra">
+            <option value="Mumbai">
+            <option value="Mussoorie">
+            <option value="Andaman">
+            <option value="Bengaluru">
+            <option value="Coorg">
+            <option value="Kerala">
+            <option value="Udaipur">
+          </datalist>
+
+          <button type="submit">Explore stays →</button>
+        </form>
+
+      </div>
+    </section>
+
+    <section class="section" id="destinations">
+
+      <h2 class="section-heading">Find your kind of escape.</h2>
+
+      <p class="section-description">
+        From peaceful mountain retreats to coastal getaways,
+        discover destinations for your next trip.
+      </p>
+
+      <div class="destinations">
+
+        <article class="destination">
+          <h3>Goa</h3>
+          <p>Beachfront resorts, tropical escapes and coastal stays.</p>
+          <button onclick="selectDestination('Goa')">Explore Goa →</button>
+        </article>
+
+        <article class="destination">
+          <h3>Kashmir</h3>
+          <p>Mountain views, lakeside stays and peaceful retreats.</p>
+          <button onclick="selectDestination('Kashmir')">Explore Kashmir →</button>
+        </article>
+
+        <article class="destination">
+          <h3>Kerala</h3>
+          <p>Backwaters, hill stations and nature-inspired stays.</p>
+          <button onclick="selectDestination('Kerala')">Explore Kerala →</button>
+        </article>
+
+        <article class="destination">
+          <h3>Coorg</h3>
+          <p>Forest resorts, coffee estates and mountain scenery.</p>
+          <button onclick="selectDestination('Coorg')">Explore Coorg →</button>
+        </article>
+
+        <article class="destination">
+          <h3>Jaipur</h3>
+          <p>Royal palaces, heritage hotels and colourful culture.</p>
+          <button onclick="selectDestination('Jaipur')">Explore Jaipur →</button>
+        </article>
+
+        <article class="destination">
+          <h3>Udaipur</h3>
+          <p>Lake views, elegant heritage properties and romantic escapes.</p>
+          <button onclick="selectDestination('Udaipur')">Explore Udaipur →</button>
+        </article>
+
+      </div>
+
+      <div id="results"></div>
+
+    </section>
+
+    <section class="section" id="about">
+      <h2 class="section-heading">Travel your way.</h2>
+
+      <p class="section-description">
+        VEYORA is a hotel discovery project designed to help
+        travellers explore stays by destination, budget,
+        views and amenities.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="logo">VEYORA<span>.</span></div>
+    <p>The stay that gets you.</p>
+    <p>Student project. Prices and availability must be verified before booking.</p>
+  </footer>
+
+  <script>
+    // Background slideshow: changes every five seconds.
+    const backgrounds = [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=2000&q=85",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=2000&q=85",
+      "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=2000&q=85",
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=2000&q=85",
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=2000&q=85"
+    ];
+
+    const heroBg = document.getElementById("heroBg");
+    let currentBackground = 0;
+
+    function changeBackground() {
+      currentBackground =
+        (currentBackground + 1) % backgrounds.length;
+
+      const nextImage = new Image();
+
+      nextImage.onload = function () {
+        heroBg.style.backgroundImage =
+          `url("${backgrounds[currentBackground]}")`;
+      };
+
+      nextImage.onerror = function () {
+        console.warn("A background image could not be loaded.");
+      };
+
+      nextImage.src = backgrounds[currentBackground];
+    }
+
+    heroBg.style.backgroundImage = `url("${backgrounds[0]}")`;
+
+    setInterval(changeBackground, 5000);
+
+    // Destination search.
+    const destinations = [
+      "Goa",
+      "Kashmir",
+      "Jaipur",
+      "Agra",
+      "Mumbai",
+      "Mussoorie",
+      "Andaman",
+      "Bengaluru",
+      "Coorg",
+      "Kerala",
+      "Udaipur"
+    ];
+
+    function selectDestination(city) {
+      document.getElementById("destination").value = city;
+      document.getElementById("searchForm").requestSubmit();
+    }
+
+    document.getElementById("searchForm").addEventListener(
+      "submit",
+      function (event) {
+        event.preventDefault();
+
+        const input =
+          document.getElementById("destination").value.trim();
+
+        const city = destinations.find(
+          destination =>
+            destination.toLowerCase() === input.toLowerCase()
+        );
+
+        const results = document.getElementById("results");
+
+        if (!city) {
+          results.innerHTML = `
+            <div class="result-message">
+              <strong>Destination not found.</strong><br>
+              Try Goa, Kashmir, Jaipur, Agra, Mumbai, Mussoorie,
+              Andaman, Bengaluru, Coorg, Kerala or Udaipur.
+            </div>
+          `;
+          return;
+        }
+
+        results.innerHTML = `
+          <div class="result-message">
+            <strong>You selected ${city}!</strong><br>
+            Your destination has been selected successfully.
+            The full hotel database and booking functionality
+            still need to be connected to this page.
+          </div>
+        `;
+
+        results.scrollIntoView({ behavior: "smooth" });
+      }
+    );
+  </script>
+
+</body>
+</html>

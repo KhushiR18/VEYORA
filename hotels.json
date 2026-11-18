@@ -1,0 +1,1197 @@
+[
+ {
+  "id": "taj-fort",
+  "name": "Taj Fort Aguada Resort & Spa, Goa",
+  "area": "Sinquerim, Candolim, Goa",
+  "region": "Goa",
+  "price": 18500,
+  "rating": 4.8,
+  "badge": "ICONIC ESCAPE",
+  "description": "A classic seaside retreat with lush gardens, ocean views and a relaxed luxury feel.",
+  "features": [
+   "Sea views",
+   "Swimming pool",
+   "Spa",
+   "Restaurant"
+  ],
+  "amenities": [
+   "pool",
+   "beach",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite",
+   "Villa"
+  ],
+  "areas": [
+   "candolim",
+   "sinquerim",
+   "baga",
+   "goa"
+  ],
+  "lat": 15.493,
+  "lng": 73.7733,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "marriott-goa",
+  "name": "Goa Marriott Resort & Spa",
+  "area": "Miramar, Panaji, Goa",
+  "region": "Goa",
+  "price": 16200,
+  "rating": 4.7,
+  "badge": "WATERFRONT FAVOURITE",
+  "description": "A waterfront resort close to the city, with a pool, spa and easy access to Panaji.",
+  "features": [
+   "Waterfront",
+   "Swimming pool",
+   "Spa",
+   "Breakfast"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Lively"
+  ],
+  "purpose": [
+   "Leisure",
+   "Business",
+   "Family",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "panaji",
+   "miramar",
+   "goa"
+  ],
+  "lat": 15.4825,
+  "lng": 73.807,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "alila-diwa",
+  "name": "Alila Diwa Goa",
+  "area": "Majorda, South Goa",
+  "region": "Goa",
+  "price": 14500,
+  "rating": 4.7,
+  "badge": "SLOW-DOWN SPOT",
+  "description": "A tranquil resort framed by tropical greenery, made for slower days and restorative breaks.",
+  "features": [
+   "Infinity pool",
+   "Spa",
+   "Garden views",
+   "Dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Quiet",
+   "Luxury",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "majorda",
+   "south goa",
+   "benaulim",
+   "varca",
+   "goa"
+  ],
+  "lat": 15.305,
+  "lng": 73.95,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "hyatt-candolim",
+  "name": "Hyatt Place Goa Candolim",
+  "area": "Candolim, North Goa",
+  "region": "Goa",
+  "price": 9200,
+  "rating": 4.4,
+  "badge": "NORTH GOA BASE",
+  "description": "A comfortable base for exploring North Goa, with contemporary rooms and easy-going amenities.",
+  "features": [
+   "Swimming pool",
+   "Breakfast",
+   "Fitness centre",
+   "Wi-Fi"
+  ],
+  "amenities": [
+   "pool",
+   "breakfast"
+  ],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Leisure",
+   "Business",
+   "Family"
+  ],
+  "roomTypes": [
+   "Standard",
+   "Deluxe"
+  ],
+  "areas": [
+   "candolim",
+   "calangute",
+   "baga",
+   "goa"
+  ],
+  "lat": 15.518,
+  "lng": 73.764,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "st-regis-goa",
+  "name": "The St. Regis Goa Resort",
+  "area": "Mobor, South Goa",
+  "region": "Goa",
+  "price": 22500,
+  "rating": 4.8,
+  "badge": "SPECIAL OCCASIONS",
+  "description": "A polished luxury escape in South Goa with expansive grounds and a serene resort atmosphere.",
+  "features": [
+   "Pool",
+   "Spa",
+   "Beach nearby",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "beach",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite",
+   "Villa"
+  ],
+  "areas": [
+   "mobor",
+   "south goa",
+   "varca",
+   "goa"
+  ],
+  "lat": 15.15,
+  "lng": 73.945,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-west-end",
+  "name": "Taj West End, Bengaluru",
+  "area": "Race Course Road, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 16500,
+  "rating": 4.7,
+  "badge": "GARDEN CITY CLASSIC",
+  "description": "A heritage luxury hotel set amid landscaped gardens in the heart of Bengaluru.",
+  "features": [
+   "Garden setting",
+   "Pool",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Quiet",
+   "Luxury"
+  ],
+  "purpose": [
+   "Leisure",
+   "Business",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "karnataka"
+  ],
+  "lat": 12.983,
+  "lng": 77.58,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "leela-bengaluru",
+  "name": "The Leela Palace Bengaluru",
+  "area": "Old Airport Road, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 21000,
+  "rating": 4.8,
+  "badge": "PALACE LUXURY",
+  "description": "A palace-inspired city hotel with ornate architecture, polished service and elegant rooms.",
+  "features": [
+   "Luxury spa",
+   "Pool",
+   "Restaurants",
+   "Fitness centre"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "karnataka"
+  ],
+  "lat": 12.961,
+  "lng": 77.648,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-mumbai",
+  "name": "The Taj Mahal Palace, Mumbai",
+  "area": "Apollo Bunder, Colaba, Mumbai, Maharashtra",
+  "region": "Mumbai",
+  "price": 24500,
+  "rating": 4.8,
+  "badge": "ICONIC LANDMARK",
+  "description": "A landmark waterfront hotel overlooking the Gateway of India, rich in history and character.",
+  "features": [
+   "Harbour views",
+   "Pool",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Business",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "mumbai",
+   "bombay",
+   "maharashtra"
+  ],
+  "lat": 18.9217,
+  "lng": 72.8332,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "trident-mumbai",
+  "name": "Trident, Nariman Point, Mumbai",
+  "area": "Nariman Point, Mumbai, Maharashtra",
+  "region": "Mumbai",
+  "price": 15500,
+  "rating": 4.6,
+  "badge": "SEA-VIEW CITY STAY",
+  "description": "A polished city hotel with Arabian Sea views and easy access to South Mumbai business and culture.",
+  "features": [
+   "Sea views",
+   "Pool",
+   "Restaurants",
+   "Business facilities"
+  ],
+  "amenities": [
+   "pool",
+   "breakfast"
+  ],
+  "mood": [
+   "Lively",
+   "Luxury"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "mumbai",
+   "bombay",
+   "maharashtra"
+  ],
+  "lat": 18.9256,
+  "lng": 72.8242,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "imperial-delhi",
+  "name": "The Imperial, New Delhi",
+  "area": "Janpath, New Delhi, Delhi",
+  "region": "Delhi",
+  "price": 23000,
+  "rating": 4.8,
+  "badge": "TIMELESS GRANDEUR",
+  "description": "A storied luxury hotel with elegant architecture, gardens and a central New Delhi address.",
+  "features": [
+   "Heritage interiors",
+   "Pool",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "delhi",
+   "new delhi",
+   "ncr"
+  ],
+  "lat": 28.6254,
+  "lng": 77.2178,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "rambagh-jaipur",
+  "name": "Rambagh Palace, Jaipur",
+  "area": "Bhawani Singh Road, Jaipur, Rajasthan",
+  "region": "Jaipur",
+  "price": 32000,
+  "rating": 4.9,
+  "badge": "ROYAL RETREAT",
+  "description": "A former royal residence with manicured gardens, grand interiors and a memorable palace atmosphere.",
+  "features": [
+   "Palace setting",
+   "Pool",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Suite",
+   "Villa"
+  ],
+  "areas": [
+   "jaipur",
+   "rajasthan"
+  ],
+  "lat": 26.8999,
+  "lng": 75.8084,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-udaipur",
+  "name": "Taj Lake Palace, Udaipur",
+  "area": "Lake Pichola, Udaipur, Rajasthan",
+  "region": "Udaipur",
+  "price": 38500,
+  "rating": 4.9,
+  "badge": "LAKE PALACE DREAM",
+  "description": "A celebrated white palace hotel on Lake Pichola, ideal for a memorable romantic escape.",
+  "features": [
+   "Lake views",
+   "Boat arrival",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Suite"
+  ],
+  "areas": [
+   "udaipur",
+   "rajasthan"
+  ],
+  "lat": 24.5757,
+  "lng": 73.6802,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "grand-hyatt-kochi",
+  "name": "Grand Hyatt Kochi Bolgatty",
+  "area": "Bolgatty Island, Kochi, Kerala",
+  "region": "Kochi",
+  "price": 15500,
+  "rating": 4.7,
+  "badge": "BACKWATER VIEWS",
+  "description": "A waterfront luxury hotel on Bolgatty Island with backwater views, pools and spacious rooms.",
+  "features": [
+   "Backwater views",
+   "Pool",
+   "Spa",
+   "Restaurants"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite",
+   "Family"
+  ],
+  "areas": [
+   "kochi",
+   "cochin",
+   "kerala"
+  ],
+  "lat": 9.9894,
+  "lng": 76.2626,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-chennai",
+  "name": "Taj Coromandel, Chennai",
+  "area": "Nungambakkam, Chennai, Tamil Nadu",
+  "region": "Chennai",
+  "price": 13800,
+  "rating": 4.6,
+  "badge": "CHENNAI CLASSIC",
+  "description": "A classic luxury hotel in central Chennai with refined dining and a convenient business-travel location.",
+  "features": [
+   "Pool",
+   "Spa",
+   "Fine dining",
+   "Business facilities"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "chennai",
+   "tamil nadu"
+  ],
+  "lat": 13.0627,
+  "lng": 80.2519,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-hyderabad",
+  "name": "Taj Falaknuma Palace, Hyderabad",
+  "area": "Engine Bowli, Hyderabad, Telangana",
+  "region": "Hyderabad",
+  "price": 35000,
+  "rating": 4.9,
+  "badge": "NIZAM-ERA GRANDEUR",
+  "description": "A restored palace above Hyderabad, offering an atmospheric heritage stay and grand dining spaces.",
+  "features": [
+   "Palace heritage",
+   "Fine dining",
+   "Spa",
+   "Guided tours"
+  ],
+  "amenities": [
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Suite"
+  ],
+  "areas": [
+   "hyderabad",
+   "telangana"
+  ],
+  "lat": 17.3317,
+  "lng": 78.4672,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "oberoi-agra",
+  "name": "The Oberoi Amarvilas, Agra",
+  "area": "Taj East Gate Road, Agra, Uttar Pradesh",
+  "region": "Agra",
+  "price": 28500,
+  "rating": 4.9,
+  "badge": "TAJ MAHAL VIEWS",
+  "description": "An elegant hotel famed for views towards the Taj Mahal and carefully landscaped grounds.",
+  "features": [
+   "Taj Mahal views",
+   "Pool",
+   "Spa",
+   "Fine dining"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "agra",
+   "uttar pradesh"
+  ],
+  "lat": 27.163,
+  "lng": 78.043,
+  "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "wildflower-shimla",
+  "name": "Wildflower Hall, Shimla",
+  "area": "Mashobra, Shimla, Himachal Pradesh",
+  "region": "Shimla",
+  "price": 26000,
+  "rating": 4.8,
+  "badge": "MOUNTAIN HIDEAWAY",
+  "description": "A mountain retreat surrounded by cedar forests, with Himalayan scenery and a peaceful atmosphere.",
+  "features": [
+   "Mountain views",
+   "Pool",
+   "Spa",
+   "Nature walks"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Quiet",
+   "Luxury",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Romantic",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite"
+  ],
+  "areas": [
+   "shimla",
+   "himachal pradesh"
+  ],
+  "lat": 31.1257,
+  "lng": 77.2161,
+  "image": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "span-manali",
+  "name": "Span Resort & Spa, Manali",
+  "area": "Kullu-Manali Highway, Manali, Himachal Pradesh",
+  "region": "Manali",
+  "price": 12500,
+  "rating": 4.6,
+  "badge": "RIVERSIDE ESCAPE",
+  "description": "A riverside mountain resort with leafy grounds and a restorative setting in the Kullu Valley.",
+  "features": [
+   "Riverside setting",
+   "Spa",
+   "Garden views",
+   "Restaurant"
+  ],
+  "amenities": [
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Quiet",
+   "Romantic"
+  ],
+  "purpose": [
+   "Leisure",
+   "Family",
+   "Romantic"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite",
+   "Family"
+  ],
+  "areas": [
+   "manali",
+   "himachal pradesh"
+  ],
+  "lat": 32.256,
+  "lng": 77.16,
+  "image": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "itc-kolkata",
+  "name": "ITC Royal Bengal, Kolkata",
+  "area": "EM Bypass, Kolkata, West Bengal",
+  "region": "Kolkata",
+  "price": 14500,
+  "rating": 4.6,
+  "badge": "GRAND CITY ADDRESS",
+  "description": "A grand contemporary hotel with impressive interiors, multiple restaurants and convenient city access.",
+  "features": [
+   "Pool",
+   "Spa",
+   "Restaurants",
+   "Business facilities"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Luxury",
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure",
+   "Family"
+  ],
+  "roomTypes": [
+   "Deluxe",
+   "Suite",
+   "Family"
+  ],
+  "areas": [
+   "kolkata",
+   "west bengal"
+  ],
+  "lat": 22.544,
+  "lng": 88.389,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "taj-varanasi",
+  "name": "Taj Ganges, Varanasi",
+  "area": "Nadesar, Varanasi, Uttar Pradesh",
+  "region": "Varanasi",
+  "price": 12000,
+  "rating": 4.5,
+  "badge": "CULTURAL CITY STAY",
+  "description": "A calm garden hotel and comfortable base for exploring the historic city of Varanasi.",
+  "features": [
+   "Landscaped gardens",
+   "Pool",
+   "Restaurant",
+   "Wellness"
+  ],
+  "amenities": [
+   "pool",
+   "spa",
+   "breakfast"
+  ],
+  "mood": [
+   "Quiet"
+  ],
+  "purpose": [
+   "Leisure",
+   "Family"
+  ],
+  "roomTypes": [
+   "Standard",
+   "Deluxe",
+   "Family"
+  ],
+  "areas": [
+   "varanasi",
+   "uttar pradesh"
+  ],
+  "lat": 25.3266,
+  "lng": 82.989,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "ibis-bengaluru",
+  "name": "ibis Bengaluru City Centre",
+  "area": "Richmond Road / Sampangiram Nagar, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 6200,
+  "rating": 4.2,
+  "badge": "SMART CITY STAY",
+  "description": "A practical city hotel for work trips and short breaks, with compact modern rooms and convenient access to central Bengaluru.",
+  "features": [
+   "Wi-Fi",
+   "Restaurant",
+   "Air conditioning",
+   "City access"
+  ],
+  "amenities": [
+   "breakfast"
+  ],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Standard",
+   "Deluxe"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "richmond road",
+   "sampangiram nagar",
+   "mg road",
+   "karnataka"
+  ],
+  "lat": 12.9667,
+  "lng": 77.6,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "ginger-bengaluru",
+  "name": "Ginger Bangalore- Inner Ring Road",
+  "area": "Domlur / Inner Ring Road, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 4200,
+  "rating": 4,
+  "badge": "EVERYDAY COMFORT",
+  "description": "A no-fuss stay with functional rooms for travellers who want comfort and a sensible nightly rate.",
+  "features": [
+   "Wi-Fi",
+   "Air conditioning",
+   "Restaurant",
+   "Work desk"
+  ],
+  "amenities": [
+   "breakfast"
+  ],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Standard",
+   "Deluxe"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "domlur",
+   "inner ring road",
+   "indiranagar",
+   "karnataka"
+  ],
+  "lat": 12.9609,
+  "lng": 77.6387,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "chancery-pavilion",
+  "name": "The Chancery Pavilion",
+  "area": "Residency Road, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 7800,
+  "rating": 4.2,
+  "badge": "CENTRAL CITY BASE",
+  "description": "A comfortable full-service hotel near central Bengaluru, suitable for business stays and city exploring.",
+  "features": [
+   "Restaurant",
+   "Pool",
+   "Wi-Fi",
+   "Fitness centre"
+  ],
+  "amenities": [
+   "pool",
+   "breakfast"
+  ],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure",
+   "Family"
+  ],
+  "roomTypes": [
+   "Standard",
+   "Deluxe"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "residency road",
+   "brigade road",
+   "mg road",
+   "karnataka"
+  ],
+  "lat": 12.9716,
+  "lng": 77.605,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "hotel-empire-bengaluru",
+  "name": "Hotel Empire International",
+  "area": "Brigade Road, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 2800,
+  "rating": 3.8,
+  "badge": "BUDGET CITY PICK",
+  "description": "A straightforward city stay for guests looking for a basic room, a central location and a more affordable price.",
+  "features": [
+   "Basic rooms",
+   "Restaurant nearby",
+   "Air conditioning",
+   "Central location"
+  ],
+  "amenities": [
+   "breakfast"
+  ],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "brigade road",
+   "mg road",
+   "commercial street",
+   "karnataka"
+  ],
+  "lat": 12.9719,
+  "lng": 77.607,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "bengaluru-basic-inn",
+  "name": "Bengaluru Everyday Rooms",
+  "area": "Majestic / Gandhinagar, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 1600,
+  "rating": 3.6,
+  "badge": "BASIC ROOM · BUDGET",
+  "description": "A simple, budget-friendly room option for short stays, overnight stops and travellers who need the essentials without resort-style extras.",
+  "features": [
+   "Basic private room",
+   "Fan / AC options",
+   "Wi-Fi",
+   "Transit access"
+  ],
+  "amenities": [],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Basic",
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "majestic",
+   "gandhinagar",
+   "yeshwanthpur",
+   "karnataka"
+  ],
+  "lat": 12.9767,
+  "lng": 77.5713,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "koramangala-comfort",
+  "name": "Koramangala Comfort Stay",
+  "area": "Koramangala 5th Block, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 2400,
+  "rating": 3.8,
+  "badge": "SIMPLE CITY ROOM",
+  "description": "A simple private-room stay in a popular Bengaluru neighbourhood, suited to students, solo travellers and short city visits.",
+  "features": [
+   "Private room",
+   "Wi-Fi",
+   "Nearby cafés",
+   "Easy city access"
+  ],
+  "amenities": [],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business",
+   "Leisure"
+  ],
+  "roomTypes": [
+   "Basic",
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "koramangala",
+   "hsr layout",
+   "karnataka"
+  ],
+  "lat": 12.9352,
+  "lng": 77.6245,
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "whitefield-budget",
+  "name": "Whitefield Budget Rooms",
+  "area": "Whitefield / ITPL, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 2200,
+  "rating": 3.7,
+  "badge": "WORK-TRIP BASIC",
+  "description": "A no-frills room choice for visitors to the Whitefield and IT corridor, with essentials for a short stay.",
+  "features": [
+   "Basic private room",
+   "Wi-Fi",
+   "Work-trip location",
+   "Essentials"
+  ],
+  "amenities": [],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business"
+  ],
+  "roomTypes": [
+   "Basic",
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "whitefield",
+   "itpl",
+   "marathahalli",
+   "karnataka"
+  ],
+  "lat": 12.9698,
+  "lng": 77.75,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "jayanagar-stay",
+  "name": "Jayanagar Comfort Rooms",
+  "area": "Jayanagar 4th Block, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 2600,
+  "rating": 3.9,
+  "badge": "NEIGHBOURHOOD STAY",
+  "description": "An uncomplicated room option in south Bengaluru for guests who prefer a neighbourhood base over a luxury hotel.",
+  "features": [
+   "Private room",
+   "Wi-Fi",
+   "Local eateries",
+   "Neighbourhood location"
+  ],
+  "amenities": [],
+  "mood": [
+   "Quiet"
+  ],
+  "purpose": [
+   "Leisure",
+   "Family"
+  ],
+  "roomTypes": [
+   "Basic",
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "jayanagar",
+   "jp nagar",
+   "karnataka"
+  ],
+  "lat": 12.9308,
+  "lng": 77.5838,
+  "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=85"
+ },
+ {
+  "id": "electronic-city-basic",
+  "name": "Electronic City Basic Stay",
+  "area": "Electronic City Phase 1, Bengaluru, Karnataka",
+  "region": "Bengaluru",
+  "price": 1900,
+  "rating": 3.7,
+  "badge": "BASIC WORK-TRIP ROOM",
+  "description": "A practical basic-room option near the Electronic City work corridor for short visits and overnight stays.",
+  "features": [
+   "Basic private room",
+   "Wi-Fi",
+   "Work-trip location",
+   "Essentials"
+  ],
+  "amenities": [],
+  "mood": [
+   "Lively"
+  ],
+  "purpose": [
+   "Business"
+  ],
+  "roomTypes": [
+   "Basic",
+   "Standard"
+  ],
+  "areas": [
+   "bengaluru",
+   "bangalore",
+   "electronic city",
+   "bommasandra",
+   "karnataka"
+  ],
+  "lat": 12.8452,
+  "lng": 77.6602,
+  "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=85"
+ }
+]
